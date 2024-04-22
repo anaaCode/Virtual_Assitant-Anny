@@ -1,0 +1,719 @@
+*{
+  font-family: 'Poppins';
+}
+.anny-virtual-asstiant .logom-1 {
+  background: url('../assets/images/logom1.png') 50% / cover no-repeat;
+  width: 12.5rem;
+  height: 6.3rem;
+}
+.anny-virtual-asstiant .home {
+ 
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.home:hover{
+  color: #1511EC;
+}
+
+.anny-virtual-asstiant .about {
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.about:hover{
+  color: #1511EC;
+}
+.anny-virtual-asstiant .product {
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.product:hover{
+  color: #1511EC;
+}
+.anny-virtual-asstiant .team {
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #000000;
+}
+.team:hover{
+  color: #1511EC;
+}
+.anny-virtual-asstiant .container-2 {
+  margin: 2rem 0 2.1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 31.2rem;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .click-here {
+  margin-right: 0.8rem;
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #FFFFFF;
+}
+.anny-virtual-asstiant .mic-1 {
+  margin: 0.4rem 0;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+.anny-virtual-asstiant .container-3 {
+  border-radius: 0.3rem;
+  background: #1511EC;
+  position: relative;
+  margin: 1.6rem 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0.5rem 0.4rem 0.3rem 0.9rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .nav-bar {
+  margin: 0 1rem 5.6rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 78.8rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .hero_section_text {
+  margin-bottom: 1.6rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-weight: 500;
+  font-size: 4rem;
+  line-height: 1.328;
+  color: #000000;
+}
+.hero_section_text {
+    position: relative;
+    margin-bottom: 1.6rem;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-weight: 500;
+    font-size: 4rem;
+    line-height: 1.328;
+    color: #000000;
+}
+
+
+.anny-virtual-asstiant .Hero_section_subtext{
+  margin: 0 0.1rem 2.5rem 0.1rem;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #1E1E1E;
+}
+.anny-virtual-asstiant .ask-me-anything {
+  margin: 1.1rem 1.1rem 1.1rem 0;
+  display: inline-block;
+  width: 20.9rem;
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #1E1E1E;
+}
+.ask-me-anything:hover{
+  color: #1511EC;
+}
+
+
+.image-button{
+  background: none;
+  border: transparent;
+}
+.image-button1{
+  background: transparent;
+  border: transparent;
+ 
+}
+.image-button:hover{
+  transform: scale(1.2);
+}
+.image-button1:hover{
+  transform: scale(1.3);
+}
+
+.anny-virtual-asstiant .mic-2 {
+  width: 3.1rem;
+  height: 3.1rem;
+}
+.anny-virtual-asstiant .container-5 {
+  border-radius: 0 0.3rem 0.3rem 0;
+  background: #1511EC;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.6rem 0;
+  width: 7.5rem;
+  height: 4.4rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .container-11 {
+  box-shadow: 1.6rem 0.9rem 4.4rem 0rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.3rem;
+  border: 0.1rem solid #1511EC;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  padding: 0.1rem 0.1rem 0.1rem 1.9rem;
+  width: 31.5rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .group-2 {
+  margin-right: 3.9rem;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.globe{
+  background: transparent;
+  border: transparent;
+  position: relative;
+  
+ 
+
+}
+.anny-virtual-asstiant .me-1 {
+  background: url('../assets/images/me1.png') 50% / cover no-repeat;
+  margin-bottom: 0.1rem;
+  width: 50rem;
+  height: 31.3rem;
+
+}
+.anny-virtual-asstiant .me-1:hover{
+  transform: scale(1.2);
+}
+.anny-virtual-asstiant .hero-content {
+  margin: 0 0 7.8rem 1.3rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .tech-stack {
+  position: relative;
+  margin: 0 0.5rem 3rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-weight: 500;
+  font-size: 4rem;
+  color: #000000;
+}
+.anny-virtual-asstiant .tech-stack:hover{
+  color: #1511EC;
+}
+.anny-virtual-asstiant .tech-stack_text {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #1E1E1E;
+}
+.anny-virtual-asstiant .rectangle-5 {
+  border-radius: 0.3rem;
+  background: #1511EC;
+  position: absolute;
+  left: 50%;
+  top: 5.4rem;
+  translate: -50% 0;
+  width: 25.8rem;
+  height: 0.4rem;
+}
+.anny-virtual-asstiant .rectangle-5:hover{
+  background-color: #000000;
+}
+.anny-virtual-asstiant .group-3 {
+  border-radius: 0.3rem;
+  position: relative;
+  margin-bottom: 4.4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .html-1 {
+  background: url('../assets/images/html1.png') 50% / cover no-repeat;
+  width: 15.6rem;
+  height: 15.6rem;
+}
+.anny-virtual-asstiant .html-1:hover{
+  transform: scale(1.2);
+}
+
+.anny-virtual-asstiant .html {
+  box-shadow: 1.6rem 1.6rem 4.7rem 0rem rgba(127, 125, 231, 0.25);
+  border-radius: 0.6rem;
+  border: 0.1rem solid #1511EC;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.6rem;
+  width: 16.9rem;
+  height: 16.9rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .css-1 {
+  background: url('../assets/images/css1.png') 50% / cover no-repeat;
+  width: 15.6rem;
+  height: 15.6rem;
+}
+.anny-virtual-asstiant .css-1:hover{
+  transform: scale(1.2);
+}
+
+.anny-virtual-asstiant .css {
+  box-shadow: 1.6rem 1.6rem 4.7rem 0rem rgba(127, 125, 231, 0.25);
+  border-radius: 0.6rem;
+  border: 0.1rem solid #1511EC;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.6rem;
+  width: 16.9rem;
+  height: 16.9rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .javascript-1 {
+  background: url('../assets/images/javascript1.png') 50% / cover no-repeat;
+  width: 15.6rem;
+  height: 15.6rem;
+}
+.anny-virtual-asstiant .javascript-1:hover{
+  transform: scale(1.2);
+}
+
+.anny-virtual-asstiant .java-script {
+  box-shadow: 1.6rem 1.6rem 4.7rem 0rem rgba(127, 125, 231, 0.25);
+  border-radius: 0.6rem;
+  border: 0.1rem solid #1511EC;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.6rem;
+  width: 16.9rem;
+  height: 16.9rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .python-1 {
+  background: url('../assets/images/python1.png') 50% / cover no-repeat;
+  width: 15.6rem;
+  height: 15.6rem;
+}
+.anny-virtual-asstiant .python-1:hover{
+  transform: scale(1.2);
+}
+
+.anny-virtual-asstiant .python {
+  box-shadow: 1.6rem 1.6rem 4.7rem 0rem rgba(21, 17, 236, 0.25);
+  border-radius: 0.6rem;
+  border: 0.1rem solid #1511EC;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.6rem;
+  width: 16.9rem;
+  height: 16.9rem;
+  box-sizing: border-box;
+}
+
+
+.anny-virtual-asstiant .tech-stack-icon {
+  margin: 0 1.3rem 0 0.9rem;
+  display: flex;
+  flex-direction: row;
+  column-gap: 1.9rem;
+  width: 73.1rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .tech-stack-icon img {
+  transition: transform 0.3s ease;
+}
+
+.anny-virtual-asstiant .tech-stack-icon img:hover {
+  transform: scale(2);
+}
+
+.anny-virtual-asstiant .tech-stack-1 {
+  margin: 0 1.9rem 7.9rem 2.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .our-product {
+  margin: 0 0 1.9rem 1.5rem;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-weight: 500;
+  font-size: 4rem;
+  color: #000000;
+}
+.anny-virtual-asstiant .our-product:hover{
+  color: #1511EC;
+}
+.anny-virtual-asstiant .ourProduct_Text {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #1E1E1E;
+}
+.anny-virtual-asstiant .group-4 {
+  margin-bottom: 3.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .tap-to-ask {
+  position: relative;
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 12.5rem;
+  color: rgba(30, 30, 30, 0.35);
+}
+.anny-virtual-asstiant .globe-removebg-preview-1 {
+  background: url('../assets/images/globeRemovebgPreview1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 1.3rem;
+  right: 1.3rem;
+  bottom: 0rem;
+  height: 29.6rem;
+}
+.anny-virtual-asstiant .group-5 {
+  position: relative;
+  margin: 0 6.2rem 0 4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 6.3rem 0 8.2rem 0;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .product-1 {
+  margin: 0 1.9rem 3.2rem 2.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .our-team {
+  margin: 0 0.2rem 1.9rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-weight: 500;
+  font-size: 4rem;
+  color: #000000;
+}
+.anny-virtual-asstiant .our-team:hover{
+  color: #1511EC;
+}
+.anny-virtual-asstiant .ourTeam_text {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #1E1E1E;
+}
+.anny-virtual-asstiant .group-6 {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .creative-leader {
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+.anny-virtual-asstiant .container-1 {
+  border-radius: 0.6rem;
+  background: #1511EC;
+  position: relative;
+  margin: 0 2.3rem 0.3rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.2rem 0.7rem 0.1rem 0.6rem;
+  box-sizing: border-box;
+}
+
+.anny-virtual-asstiant .container-1:hover{
+  transform: scale(1.2);
+}
+
+.anny-virtual-asstiant .jyotikumari-8709-aamail-com {
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.anny-virtual-asstiant .jyoti-1 {
+  position: absolute;
+  left: 6.6rem;
+  bottom: 5.6rem;
+  overflow-wrap: break-word;
+  font-weight: 500;
+  font-size: 2.1rem;
+  color: #000000;
+}
+.anny-virtual-asstiant .container {
+  box-shadow: 1.6rem 2.8rem 1.6rem 0rem rgba(21, 17, 236, 0.25);
+  border-radius: 0.6rem;
+  border: 0rem solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 19.4rem 0.9rem 1.3rem 1.4rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .pexels-zen-chung-5538577-removebg-preview-1 {
+  background: url('../assets/images/pexelsZenChung5538577RemovebgPreview1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  top: 0rem;
+  translate: -50% 0;
+  width: 12.5rem;
+  height: 18.8rem;
+}
+
+.anny-virtual-asstiant .jyoti {
+  position: relative;
+  margin-right: 3.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 3.5rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .team-manager {
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+.anny-virtual-asstiant .container-4 {
+  border-radius: 0.6rem;
+  background: #1511EC;
+  position: relative;
+  margin: 0 0.6rem 0.3rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.2rem 0.9rem 0.1rem 0.8rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .gourang-6102003-mail-com {
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.anny-virtual-asstiant .gaurav-1 {
+  position: absolute;
+  left: 50%;
+  bottom: 5.6rem;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-weight: 500;
+  font-size: 2.1rem;
+  color: #000000;
+}
+.anny-virtual-asstiant .container-6 {
+  box-shadow: 1.6rem 2.8rem 1.6rem 0rem rgba(21, 17, 236, 0.25);
+  border-radius: 0.6rem;
+  border: 0rem solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 19.4rem 1.5rem 1.3rem 2.1rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .pexels-buro-millennial-1438081-removebg-preview-1 {
+  background: url('../assets/images/pexelsBuroMillennial1438081RemovebgPreview1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0.1rem;
+  top: 0rem;
+  right: 0rem;
+  height: 14.6rem;
+}
+.anny-virtual-asstiant .gaurav {
+  position: relative;
+  margin: 1.4rem 3rem 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 2.1rem 0.1rem 0 0;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .web-developer {
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #FFFFFF;
+}
+.anny-virtual-asstiant .container-10 {
+  border-radius: 0.6rem;
+  background: #1511EC;
+  position: relative;
+  margin: 0 0.9rem 0.3rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: center;
+  padding: 0.2rem 0.7rem 0.1rem 1rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .kumariabha-36-mail-com {
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #000000;
+}
+.anny-virtual-asstiant .abhaa-1 {
+  position: absolute;
+  right: 6.3rem;
+  bottom: 5.6rem;
+  overflow-wrap: break-word;
+  font-weight: 500;
+  font-size: 2.1rem;
+  color: #000000;
+}
+.anny-virtual-asstiant .container-9 {
+  box-shadow: 1.6rem 2.8rem 1.6rem 0rem rgba(21, 17, 236, 0.25);
+  border-radius: 0.6rem;
+  border: 0rem solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 19.4rem 1.1rem 1.3rem 0;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .pexels-khuong-pham-18318353-removebg-preview-11 {
+  background: url('../assets/images/pexelsKhuongPham18318353RemovebgPreview11.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 2.4rem;
+  top: 0rem;
+  width: 15.6rem;
+  height: 18.8rem;
+}
+.anny-virtual-asstiant .abhaa {
+  position: relative;
+  padding-top: 3.5rem;
+  width: 21.9rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .container-8 {
+  margin: 0 1rem 0 2.5rem;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .our-team-1 {
+  margin: 0 2.9rem 5.9rem 1.7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .about-1 {
+  margin: 0 0.4rem 1.9rem 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-weight: 500;
+  font-size: 4rem;
+  color: #000000;
+}
+.anny-virtual-asstiant .about-1:hover{
+  color: #1511EC;
+}
+.anny-virtual-asstiant .about2_Text {
+  margin-bottom: 3.2rem;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 1.5rem;
+  color: #1E1E1E;
+}
+.anny-virtual-asstiant .ask-us {
+  overflow-wrap: break-word;
+  font-weight: 400;
+  font-size: 5rem;
+  color: #FFFFFF;
+}
+.anny-virtual-asstiant .ask-us:hover{
+  transform: scale(1.1);
+
+  color: #FFFFFF;
+
+}
+
+
+.anny-virtual-asstiant .container-7 {
+  border-radius: 1.6rem;
+  background: #1511EC;
+  position: relative;
+  margin-right: 3.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0.9rem 0;
+  width: 31.3rem;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant .about-2 {
+  margin: 0 1.9rem 0 2.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.anny-virtual-asstiant {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2.1rem 5.3rem 4.3rem 4.9rem;
+  width: 90rem;
+  box-sizing: border-box;
+}
+
+
