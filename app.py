@@ -247,7 +247,7 @@ if __name__ == "__main__":
             speak("Thanks for giving me your time")
             exit()
        
-       elif 'email to Abha' in query:
+       elif 'send email' in query:
             try:
                 speak("What should I say?")
                 content = takecommand()
